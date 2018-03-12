@@ -1,0 +1,18 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar {
+  background-color: #d32123;
+  border-color: #d32123;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+}
+
+
